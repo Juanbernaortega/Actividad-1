@@ -1,0 +1,11 @@
+T_cliente:cedula,nombre ,apellido,direccion,telefono
+T_maquina:serial,marca,reporte_ingre,fecha_ingre
+T_Empleado: cedula, nombre, apellido, direccion, telefono
+T_reporte:id, reporte final, fecha_fin
+Tr_ cliente_maquina: id,cedula_cliente,id_maquina
+Tr_maquina_reporte:id,serial_maquina,reporte_fin
+Tr_reporte_empleado:id,id_reporte_final,cedula_empleado
+
+
+
+

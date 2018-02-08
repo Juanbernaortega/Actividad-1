@@ -1,0 +1,10 @@
+BASE DE DATOS 
+Se desea crear una base de datos para una empresa de soporte tecnico que permita registrar al 
+cliente, la maquina, el reporte y empleados.
+
+consultas text
+
+1.	Mostar los  clientes que han llevado su equipo en el 2018.
+2.	Numeros de maquinas que no se reportaron danos.
+3.	Numeros de reportes que haya hecho  un empleado en los ultimos 2 meses.
+4.	Numeros de maquinas con la marca HP o Lenovo.
